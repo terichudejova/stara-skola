@@ -1,0 +1,14 @@
+:root {
+    --main-color: rgb(20,59,83);
+    --second-color: white;
+    --third-color: #f4dcdc;
+    --title-font: "Playwrite BE VLG", cursive;
+    --main-font: "Source Code Pro", monospace;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
